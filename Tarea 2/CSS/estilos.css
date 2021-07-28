@@ -1,0 +1,21 @@
+.titulos{
+    color: green;
+}
+
+.subtitulos{
+    color: red;
+}
+
+.texto{
+    color: black;
+    margin-right: 25px;
+}
+
+.imagenes{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.enlaces{
+    color: darkorange;
+}
